@@ -1,2 +1,4 @@
-First Line
+%%writefile mytest.txt
+This is only a test
+
 Second Line
